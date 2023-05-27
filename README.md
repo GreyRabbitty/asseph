@@ -125,53 +125,12 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img height='25em' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
-
-
-
-
 <br/>
-
-
-<h1 font-weight="bold">📊 My Github Stats 🏆</h1>
-
-<div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyCaptainess&layout=compact&langs_count=7&theme=dark">
-  <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=SkyCaptainess&theme=darkhub&row=1&column=6" alt="trophy">
-  </a>
-  <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="SkyCaptainess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SkyCaptainess?cardType=level&theme=dark&preferLogin=false" />
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=SkyCaptainess&theme=dark" alt="GitHub Streak">
-  </a>
-</div>
-<br/>
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyCaptainess&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyCaptainess&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkyCaptainess&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkyCaptainess&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SkyCaptainess&theme=dark&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
-
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
     src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
  </div>
-
-  
-  
-  
- 
 
 <h1 font-weight="bold">
   📮 How to reach me
