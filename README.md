@@ -3,14 +3,12 @@
 </h2>
 
 <h1>🧙‍♀️ About Me</h1>
-<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<p>
+
 With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
 
 But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
   
 </p>
-<img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
 Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
   
@@ -32,8 +30,6 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
-
-
 
 
   <br/>
