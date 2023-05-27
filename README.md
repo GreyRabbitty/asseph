@@ -127,10 +127,6 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </p>
 <br/>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
-    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
- </div>
 
 <h1 font-weight="bold">
   📮 How to reach me
