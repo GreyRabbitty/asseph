@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Sky Captainess, a masterful sorcerer of FRONT-END magic and FULL-STACK alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
+🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <h1>🧙‍♀️ About Me</h1>
@@ -179,7 +179,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 </h1>
 
 <p align='center'>
-  <a href="mailto:andychris9474@gmail.com" target="_blank">
+  <a href="mailto:idealsuperdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 <!--   <a href="https://www.linkedin.com/">
@@ -188,7 +188,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <!--   <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a> -->
-  <a href="https://join.skype.com/invite/xFblvPXgmTM8" target="_blank">
+  <a href="https://join.skype.com/invite/wKkrO4UHXqN5" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me">
