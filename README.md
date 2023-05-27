@@ -26,16 +26,10 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SkyCaptainess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/SkyCaptainess/github-widgetbox) -->
 
 <p align="center">
-  <a href="https://github.com/SkyCaptainess">
+  <a href="https://github.com/super1002">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
-
-
-  <br/>
-  <br/>
-  
-
 <h1 font-weight="bold">
   🌟 My Skills  
 <img  width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
