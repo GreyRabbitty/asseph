@@ -2,6 +2,13 @@
 🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+- 💖Welcome to my Github💖
+- Contact to me: idealsuperdev@gmail.com
+- Contact to me on Discord: ! Feed#9999
+- Past Projects and Portfolio: 
+  - <a href="https://tonysilva1002.vercel.app">Development Overview</a>
+  - <a href="https://github.com/super1002/Blockchain-Road">Blockchain History</a>
+
 <h1>🧙‍♀️ About Me</h1>
 
 With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
