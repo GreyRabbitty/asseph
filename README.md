@@ -3,7 +3,7 @@
 </h2>
 
 - Contact to me: idealsuperdev@gmail.com
-- Contact to me on Discord: Halle#9454
+- Contact to me on Discord: Abra#1000
 - Past Projects and Portfolio: 
   - <a href="https://github.com/super1002/Blockchain-Road">Blockchain History</a>
 
