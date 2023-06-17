@@ -5,7 +5,6 @@
 - Contact to me: idealsuperdev@gmail.com
 - Contact to me on Discord: Halle#9454
 - Past Projects and Portfolio: 
-  - <a href="https://halle.vercel.app">Development Overview</a>
   - <a href="https://github.com/super1002/Blockchain-Road">Blockchain History</a>
 
 <h1>🧙‍♀️ About Me</h1>
