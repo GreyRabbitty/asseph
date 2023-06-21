@@ -2,10 +2,8 @@
 🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-- Contact to me: idealsuperdev@gmail.com
+- Contact to me: flexiway.studio@gmail.com
 - Contact to me on Discord: Halle#9454
-- Past Projects and Portfolio: 
-  - <a href="https://github.com/super1002/Blockchain-Road">Blockchain History</a>
 
 <h1>🧙‍♀️ About Me</h1>
 
