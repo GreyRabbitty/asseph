@@ -3,7 +3,7 @@
 </h2>
 
 - Contact to me: flexiway.studio@gmail.com
-- Contact to me on Discord: Halle#9454
+- Contact to me on Discord: Abra1000
 
 <h1>🧙‍♀️ About Me</h1>
 
