@@ -1,6 +1,3 @@
-<div align="center">There is nothing noble in being superior to your fellow man;
-  <h2 style="margin-top: 0.1em;">true nobility is being superior to your former self.</h2>
-</div>
 <div align="right">🌱 Ernest Hemingway</div>
 
 ✨ <a href="https://github.com/super1002/project-overview"> Past Projects Overview </a> ✨
