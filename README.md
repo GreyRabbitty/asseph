@@ -83,4 +83,4 @@
 <br />
 
 ## 🔭 Currently working in
-![greatgoat_wide](https://github.com/microgift/microgift/assets/127183857/20ee6ba9-180e-421a-83bc-0f0a9da6123d)
+![greatgoat_wide](https://cdn.discordapp.com/attachments/1027230487766388767/1053396639437561906/Roman_empire_Objective_map.png?ex=6532d812&is=65206312&hm=4a94dd50ead80a039999ef3c3e698971c4804cc8e30605b213bd24406bc4b856&)
