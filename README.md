@@ -70,8 +70,8 @@ More than 9 years of experience with Web and app development, 3+ years of 🔗<b
 
 <br />
 
-## 🔭 Currently working as a Solana Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
-![Screenshot_14](https://user-images.githubusercontent.com/29230603/191172999-7409fc8e-9bc8-4f46-a453-27b67047f0f6.png)s
+## 🔭 Currently working as a Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
+![map](https://github.com/super1002/super1002/assets/125123579/cb2a21f6-34d4-481a-a906-5782afc9402f)
 
 
 ## 📩 You can contact me via 📩
