@@ -63,10 +63,10 @@
 <br /><br />
 -->
 
-<h4 align="center">
+<h3 align="center">
 More than 9 years of experience with Web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 part.<br />
 🔥I am always trying to improve development and communication processes.🔥 
-</h4>
+</h3>
 
 <br />
 
