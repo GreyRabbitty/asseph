@@ -3,7 +3,7 @@
 
 ## Hi 👋 Happy Day!
 <li> Contact to me: <a href="mailto:davidkano.dk@gmail.com">davidkano.dk@gmail.com</a> </li>
-<li> My past works: <a href="https://github.com/super1002/project-overview"> ---MY PROJECTs--- </a> </li>
+<li> My past works: <a href="https://github.com/super1002/project-overview/blob/master/README.md"> ---MY PROJECTs--- </a> </li>
 <li> 🤝 💕 👀 Follow me via Git  👪 💖 🤞 </li>
 
 </br>
