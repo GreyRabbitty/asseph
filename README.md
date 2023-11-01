@@ -75,7 +75,7 @@ More than 9 years of experience with Web and app development, 3+ years of 🔗<b
 
 
 ## 📩 You can contact me via 📩
-<a href="https://www.linkedin.com/in/david-kano/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Venus | LinkedIn" width="24px"/></a>
+<!-- <a href="https://www.linkedin.com/in/david-kano/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Venus | LinkedIn" width="24px"/></a> -->
 <a href="https://discord.com/users/1157066242658672740"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/discord.svg" alt="Venus | Discord" width="24px"/></a>
 <a href="mailto:davidkano.dk@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Venus | Email" width="24px"/></a>
 <a href="https://t.me/dk_1002/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Venus | Telegram" width="24px"/></a>
