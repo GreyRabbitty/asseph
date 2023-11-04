@@ -2,7 +2,7 @@
 
 
 ## Hi 👋 Happy Day!
-<li> Contact to me: <a href="mailto:davidkano.dk@gmail.com">davidkano.dk@gmail.com</a> </li>
+<li> Contact to me: <a href="mailto:davidkano.dk@gmail.com">idealsuperdev@gmail.com</a> </li>
 <li> My past works: <a href="https://github.com/super1002/pos-ecommerce-web3-ethereum-solana-binance-P2E-Dex-Defi/blob/master/README.md"> ---MY PROJECTs--- </a> </li>
 <li> 🤝 💕 👀 Follow me via Git  👪 💖 🤞 </li>
 
@@ -77,7 +77,7 @@ More than 9 years of experience with Web and app development, 3+ years of 🔗<b
 ## 📩 You can contact me via 📩
 <!-- <a href="https://www.linkedin.com/in/david-kano/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Venus | LinkedIn" width="24px"/></a> -->
 <a href="https://discord.com/users/1157066242658672740"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/discord.svg" alt="Venus | Discord" width="24px"/></a>
-<a href="mailto:davidkano.dk@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Venus | Email" width="24px"/></a>
-<a href="https://t.me/dk_1002/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Venus | Telegram" width="24px"/></a>
+<a href="mailto:idealsuperdev@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/email.svg" alt="Venus | Email" width="24px"/></a>
+<a href="https://t.me/grey_rabbit/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Venus | Telegram" width="24px"/></a>
 <a href="https://join.skype.com/invite/yoYWSjLjQEja"><img align="left" src="https://raw.githubusercontent.com/dev-tom-0108/dev-tom-0108/main/images/skype.svg" alt="Venus | Skype" width="24px"/></a>
 <br/>
