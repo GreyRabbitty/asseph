@@ -64,15 +64,45 @@
 -->
 
 <h3 align="center">
-More than 9 years of experience with Web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 part.<br />
+More than 9 years of experience with Web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 space.<br />
 🔥I am always trying to improve development and communication processes.🔥 
 </h3>
-
+<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
+<h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 <br />
 
 ## 🔭 Currently working as a Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
 ![map](https://github.com/super1002/super1002/assets/125123579/cb2a21f6-34d4-481a-a906-5782afc9402f)
 
+
+## 🌱 Experience
+
+- Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
+- Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
+- Built P2E Games like Dice(Monopoly), Spinner(Roulette), RNGs(Random Number Generators), Crash, CoinFlip, Slots games(Jackpot)
+- Made some utility tokens and created LP(Liquidity Pool)
+- DEX, Defi, DAO, Dapps
+- Attended Hackathon and contributed to open source projects.
+
+## 📈 Github Status
+<p>
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super1002&exclude_repo=super1002.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=super1002&sshow_icons=true&theme=radical&count_private=true">
+</p>
+
+<details>
+  <summary align="center">More about me</summary>
+  
+⚡ These are languages and frameworks I mostly use:
+- BTC ordinals 
+- Rust and Anchor framework
+- Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts and Foundary kit
+- Web3 integration
+- React/Next.js or Vue/Nuxt.js or Angular
+- Node or Python or Go or Ruby or Laravel
+- MongoDB or MySQL or Postgre or Oracle
+
+</details>
 
 ## 📩 You can contact me via 📩
 <!-- <a href="https://www.linkedin.com/in/david-kano/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Venus | LinkedIn" width="24px"/></a> -->
