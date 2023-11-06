@@ -84,12 +84,6 @@ More than 9 years of experience with Web and app development, 3+ years of 🔗<b
 - DEX, Defi, DAO, Dapps
 - Attended Hackathon and contributed to open source projects.
 
-## 📈 Github Status
-<p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venture1981&exclude_repo=super1002.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=venture1981&sshow_icons=true&theme=radical&count_private=true">
-</p>
-
 <details>
   <summary align="center">More about me</summary>
   
