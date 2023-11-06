@@ -63,10 +63,10 @@
 <br /><br />
 -->
 
-<h3 align="center">
+<h2 align="center">
 More than 9 years of experience with Web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 space.<br />
 🔥I am always trying to improve development and communication processes.🔥 
-</h3>
+</h2>
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 <br />
@@ -95,13 +95,13 @@ More than 9 years of experience with Web and app development, 3+ years of 🔗<b
   
 ⚡ These are languages and frameworks I mostly use:
 - BTC ordinals 
+- Blockchain technology explore within Metaverse 
 - Rust and Anchor framework
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts and Foundary kit
 - Web3 integration
 - React/Next.js or Vue/Nuxt.js or Angular
 - Node or Python or Go or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
-
 </details>
 
 ## 📩 You can contact me via 📩
