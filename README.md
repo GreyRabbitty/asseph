@@ -64,14 +64,12 @@
 -->
 
 <h2 align="center">
-More than 9 years of experience with Web and app development, 3+ years of 🔗<b>BLOCKCHAIN</b>🔗 space.<br />
-🔥I am always trying to improve development and communication processes.🔥 
+More than 9 years of experience with Web and app development, 4+ years of 🔗<b>BLOCKCHAIN</b>🔗 space.<br />
 </h2>
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
-<h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 <br />
 
-## 🔭 Currently working as a Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
+## 🔭 Working as a Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
 ![map](https://github.com/super1002/super1002/assets/125123579/cb2a21f6-34d4-481a-a906-5782afc9402f)
 
 
