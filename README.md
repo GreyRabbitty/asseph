@@ -2,7 +2,7 @@
 
 
 ## Hi 👋 Happy Day!
-<li> Contact to me: <a href="mailto:davidkano.dk@gmail.com">davidkano.dk@gmail.com</a> </li>
+<li> Contact to me: <a href="mailto:assephdev@gmail.com">assephdev@gmail.com</a> </li>
 <li> My past works: <a href="https://github.com/super1002/pos-ecommerce-web3-ethereum-solana-binance-P2E-Dex-Defi/blob/master/README.md"> ---MY PROJECTs--- </a> </li>
 <li> 🤝 💕 👀 Follow me via Git  👪 💖 🤞 </li>
 
@@ -64,8 +64,7 @@
 -->
 
 <h2 align="center">
-More than 9 years of experience with Web and app development, 4+ years of 🔗<b>BLOCKCHAIN</b>🔗 space.<br />
-</h2>
+More than 9 years of experience with Web and app development, 4+ years of 🔗<b>BLOCKCHAIN</b>🔗 space </h2>
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <br />
 
