@@ -159,7 +159,7 @@
 
 <p>
     <a href="https://ethereum.org" target="_blank"><img alt="Ethereum"
-        src="https://img.shields.io/badge/mantisclone.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
+        src="https://img.shields.io/badge/asseph.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 </p>
 
 <!--
