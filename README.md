@@ -3,7 +3,7 @@
 
 ## Hi 👋 Happy Day!
 <li> Contact to me: <a href="mailto:assephdev@gmail.com">assephdev@gmail.com</a> </li>
-<li> My past works: <a href="https://github.com/super1002/pos-ecommerce-web3-ethereum-solana-binance-P2E-Dex-Defi/blob/master/README.md"> ---MY PROJECTs--- </a> </li>
+<li> My past works: <a href="https://github.com/super1002/pos-ecommerce-web3-ethereum-solana-binance-P2E-Dex-Defi/blob/master/README.md"> ---Web3 Projects Overview--- </a> </li>
 <li> 🤝 💕 👀 Follow me via Git  👪 💖 🤞 </li>
 
 </br>
