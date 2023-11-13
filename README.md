@@ -14,6 +14,7 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a freelance full-stack web3 developer
+- 🔭 Past projects: [Blockchain-Overview](https://github.com/super1002/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects)
 - 🔭 I’m currently working on: Web3 and Smart contract Developer at [Imperial Roman Army](https://casino.imperialarmy.xyz/
 )
 - 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
