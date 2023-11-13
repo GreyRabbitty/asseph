@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Asseph (David Kano)
+### 👋 Hello, I'm David (Asseph)
 
 <p> 
     <a href="https://discordapp.com/users/asseph_sol" target="_blank"><img alt="Discord"
