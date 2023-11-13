@@ -158,6 +158,8 @@
 ### 💰 Funding
 
 <p>
+    <a href="https://solana.org" target="_blank"><img alt="Ethereum"
+        src="https://img.shields.io/badge/asseph.sol-3C3C3D?style=for-the-badge&logo=Solana&logoColor=white"/></a>
     <a href="https://ethereum.org" target="_blank"><img alt="Ethereum"
         src="https://img.shields.io/badge/asseph.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 </p>
