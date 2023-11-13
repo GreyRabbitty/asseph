@@ -9,7 +9,6 @@
 </br>
 
 
-<!---
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="Solana logo" title="Solana" height="40" />
 &nbsp;
@@ -23,8 +22,8 @@
 &nbsp;
 <img src="https://seeklogo.com/images/N/near-protocol-near-logo-3CBD263358-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="30" />
 &nbsp;
-<br /> <br /> -->
-<!--
+<br /> <br /> 
+
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
 &nbsp;
@@ -61,16 +60,6 @@
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
 <br /><br />
--->
-
-<h2 align="center">
-More than 9 years of experience with Web and app development, 4+ years of 🔗<b>BLOCKCHAIN</b>🔗 space </h2>
-<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
-<br />
-
-## 🔭 Working as a Smart Contract & Web3 Dev in [Imperial Army](https://casino.imperialarmy.xyz/)
-![map](https://github.com/super1002/super1002/assets/125123579/cb2a21f6-34d4-481a-a906-5782afc9402f)
-
 
 ## 🌱 Experience
 
