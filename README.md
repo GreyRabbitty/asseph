@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm David (Asseph)
 
 <p> 
-    <a href="https://discordapp.com/users/asseph_sol" target="_blank"><img alt="Discord"
+    <a href="https://discordapp.com/users/asseph.h" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/grey_rabbit" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -32,7 +32,7 @@
   - 3 years at [Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/) building a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   - 4 years at [Northrop Grumman](https://www.northropgrumman.com/) working on a variety of projects including GUI integration testing, experimental low-latency networking, hardware emulation, and embedded image processing.
 - 🎓 I hold a Bachelor's degree, double major, in [Computer Engineering](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/) and [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) from the University of Wisconsin - Madison.
-- 📫 Email me at [assephdev@gmail.com](mailto:assephdev@gmail.com)
+- 📫 Email me at [idealsuperdev@gmail.com](mailto:idealsuperdev@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### 🎯 Skills
