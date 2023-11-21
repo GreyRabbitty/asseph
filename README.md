@@ -1,4 +1,4 @@
-### 👋 Hello, I'm David (Asseph)
+### 👋 Hello, I'm Asseph
 
 <p> 
     <a href="https://discordapp.com/users/asseph.h" target="_blank"><img alt="Discord"
