@@ -15,7 +15,7 @@
 
 - 👷‍♂️ I'm a freelance full-stack web3 developer
 - 🔭 Past projects: [Blockchain-Overview](https://github.com/super1002/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects)
-- 🔭 I’m currently working on: Co-founder and Lead Developer at [Elementals_NFT_](https://twitter.com/Elementals_NFT_)
+- 🔭 I’m currently working on: Co-founder and Lead Developer at [Elementals_NFT_](https://twitter.com/Elementals_NFT_
 )
 - 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
